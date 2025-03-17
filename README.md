@@ -27,3 +27,5 @@ The algorithm was tested on **SPY (S&P 500 ETF)** using historical data from **J
 ### 📉 Results
 - The algorithm’s performance was compared against the overall market returns.
 - **Key metrics** such as total return, Sharpe ratio, and drawdowns were analyzed.
+
+<img width="1010" alt="image" src="https://github.com/user-attachments/assets/5d8aabd9-b1b4-49fd-a830-d653b6311833" />
