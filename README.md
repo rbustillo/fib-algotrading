@@ -32,3 +32,4 @@ The algorithm was tested on **SPY (S&P 500 ETF)** using historical data from **J
 
 <img width="1157" alt="image" src="https://github.com/user-attachments/assets/580f0d11-0754-4ef8-9972-638bb5a8dc9f" />
 
+<img width="1157" alt="image" src="https://github.com/user-attachments/assets/35bd7687-5b45-45cc-af3a-3ca97e9158a3" />
